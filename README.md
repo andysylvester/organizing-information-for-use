@@ -139,6 +139,8 @@ http://oldschool.scripting.com/KenSmith/2022/03/13/023630.html?title=rollUp
 
 http://oldschool.scripting.com/KenSmith/2022/03/10/020721.html?title=anInformationAccessProblem
 
+https://twitter.com/KenSmith/status/1432441073503195138 - Semaphore comment
+
 
 # References
 
