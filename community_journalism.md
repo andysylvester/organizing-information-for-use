@@ -13,3 +13,6 @@
 # Resources
 
 [Neighborhood News Bureau](https://www.nnbnews.com/community-journalism-resources/) - Community journalism resources
+
+[Community News Service at UVM](https://www.communitynews.net/) - Community news site from University of Vermont
+
