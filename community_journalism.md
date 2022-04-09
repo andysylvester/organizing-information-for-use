@@ -10,3 +10,6 @@
 
 [Community News Service at University of Vermont](https://www.communitynews.net/home/community-journalism-training-feb-1) - Original announcement of training
 
+# Resources
+
+[Neighborhood News Bureau](https://www.nnbnews.com/community-journalism-resources/) - Community journalism resources
