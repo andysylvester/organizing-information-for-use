@@ -29,13 +29,29 @@ http://beta.fargo.io/users/smith/2013/08/23/whatATrulyVisionaryEnglishDepartment
 
 http://oldschool.scripting.com/KenSmith/2021/08/31/024426.html?title=twitterWishListorganizingTheTweets
 
+I'd like a little button on Twitter that would allow me to designate up to a dozen of my tweets to serve as an introduction to my main concerns, producing something like this: What's @KenSmith about? It's about these dozen tweets, the issues they raise, the small points they begin to make, the fuller resources they point to elsewhere.
+
 http://oldschool.scripting.com/KenSmith/2021/09/29/123417.html?title=expansionstate
+
+In my memory, the central insight of the World Outline was curating and including in a single outline the quality outlines of others, building through collaboration a more substantial body of quality material on a shared topic than one person alone could build.
 
 http://oldschool.scripting.com/KenSmith/2021/09/27/131027.html?title=bookmarkingOrLinkingTo
 
+Linking to the site was a way of providing a wider context--who is this writer, what is this writer's project, what is this writer's claim to authority?
+
+Linking to the particular posting was a way of saying that we all agree that the real chance for thinking together involves paying attention to the specific things the other person is saying. If we're not doing that, helping each other do that, we're not really all that interested in communication.
+
+Most honorable of all practices was providing those two links AND quoting and discussing a key passage.
+
 http://oldschool.scripting.com/KenSmith/2021/09/27/124834.html?title=unreportingTheNews
 
+Journalists should see this (redistricting) as front page-worthy every day. Not just which state has handed down its new districts, but connecting the dots, the broad patterns, the finer grain implications, the places where people somehow manage to push back.
+
+Front page every day. "You have to give the people time..." (to call their congressmen, to flood the phones of the district offices...quotes from video link)
+
 http://oldschool.scripting.com/KenSmith/2021/09/24/015845.html?title=vsPowerpoint
+
+In a discussion today a much more interesting path was described, using an outliner like this one, projecting on a screen, but taking live notes, revising as needed, tagging tasks with names and report-back dates maybe, and giving everyone an agreed-upon set of meeting notes at the end. Many folks would see their suggestions go up on the screen and they'd be in the take-home outline notes. There'd be buy-in from all of that. It would feel productive, respectful, hopeful.
 
 https://twitter.com/KenSmith/status/1441011200603693058
 
