@@ -73,9 +73,23 @@ https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119
 
 http://oldschool.scripting.com/KenSmith/2021/09/20/115930.html?title=indexProcess
 
+This seems like it will open up new writing-organizing-revising work habits that promise to help explode the limitations of timeline-only composing schemes and solo-document-type composing schemes. I've been wanting to be able to bust open those two narrow spaces for some time now, or to cross back and forth at will. There are traces in old web posts that others have wished for this even longer than I have.
+
+The bookmark outline reaches (kind of like an index) into other outlines, including timeline-based ones, and establishes a composing space that can use or refer to those timeline spaces as much or as little as the writer wishes. Hyperlinks partake of a portion of the index process or function, too, yes? Tagging crosses the borders of a single outline or a single document in an index-like way. Tagging that presents itself in an editable space, such as in a wiki (mused upon in discussion somewhere this summer), would break things open in a new way.
+
+This will seem vague or inexact but here goes. Thanks to these new kinds of tools, ndex becomes index process becomes hybrid index process/composing-revising-publishing space.
+
 http://oldschool.scripting.com/KenSmith/2021/09/19/032913.html?title=riffingOnAndBeingRiffedOn
 
+So the specificity of the first soloist's phrasing should in some specific way be acknowledged in the notes played by the second. Lots of ways to do that, I believe, but still, the link should be noticeable to a thoughtful listener.
+
+This implies a more or less tangible standard for communication that could apply to social media exchanges. The specificity of the seed message should be recognizable in some way in the reply. If it isn't, then the first writer is right to feel wronged in some way, such as being misunderstood, being misrepresented, etc. Possibly having been engaged only in a tangential way.
+
 http://oldschool.scripting.com/KenSmith/2021/09/17/122110.html?title=politicalAllianceSmartPhoneApp
+
+Exiled political associates of Aleksei Navalny have worked up a phone app that invites Russian voters to choose the candidates most likely to have a chance against the Putin-controlled United Russia party for a seat in parliament, no matter what party's candidate the data analysis points to. So, an anybody-but-Putin's-people strategy, aiming to energize opposition in a highly manipulated political landscape.
+
+Hoping to prove in a high profile way that tactical opposition can be meaningful there once again. Using research, messaging tools, essential alliances, and publicity to do so.
 
 http://oldschool.scripting.com/KenSmith/2021/09/16/135426.html?title=aBloggersBlemishes
 
