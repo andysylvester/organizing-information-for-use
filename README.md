@@ -5,13 +5,15 @@ A place to collect information on how to organize information for use by others
 
 [Organizing information for use](http://oldschool.scripting.com/KenSmith/2021/08/24/144925.html?title=organizingInformationForUse) - the seminal post by Ken Smith that got this idea started
 
-http://oldschool.scripting.com/KenSmith/2021/08/29/152848.html?title=languageApproachedSocially
 
-https://twitter.com/KenSmith/status/1427699211848589316?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1427699211848589316%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=http%3A%2F%2Foldschool.scripting.com%2FKenSmith%2F2021%2F08%2F
+https://twitter.com/KenSmith/status/1427699211848589316
+Activism gives democracy a fighting chance
 
 https://twitter.com/KenSmith/status/1426153233190461446
+Tweets about book describing how to fight the information war
 
 http://oldschool.scripting.com/KenSmith/2021/08/13/161500.html?title=aLittleTheoryOfSilenceAndDemocracy
+Discusses how silence is the basic mode of the citizen, and gives ideas why
 
 http://oldschool.scripting.com/KenSmith/2021/08/26/155804.html?title=sharedLanguage
 
