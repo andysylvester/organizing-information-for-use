@@ -15,13 +15,17 @@ Tweets about book describing how to fight the information war
 http://oldschool.scripting.com/KenSmith/2021/08/13/161500.html?title=aLittleTheoryOfSilenceAndDemocracy
 Discusses how silence is the basic mode of the citizen, and gives ideas why
 
-http://oldschool.scripting.com/KenSmith/2021/08/26/155804.html?title=sharedLanguage
-
-http://oldschool.scripting.com/KenSmith/2021/08/25/153529.html?title=soThatHappened
+http://oldschool.scripting.com/KenSmith/2021/08/25/153529.html?title=soThatHappened  Obviously, remember when and so that happened aren't good ways to use or reuse information. They don't organize information for use.
 
 https://semaphoreandcairn.com/semaphore/
 
-http://beta.fargo.io/users/smith/2013/08/23/whatATrulyVisionaryEnglishDepartment.html
+"Here is the post-Berners-Lee, post-Snowden takeaway:
+
+Messages are easy, easier than ever, but they go nowhere, they are useless, if the network has not been prepared.
+
+That network is a piece of open technology tuned to worthwhile purposes and a web of people already aligned with each other and inside each person the knowledge, attitude, and skills needed to pitch in. That’s the message I’m getting from semaphore today."
+
+http://beta.fargo.io/users/smith/2013/08/23/whatATrulyVisionaryEnglishDepartment.html "To be literate in the 21st century, you have to be able to communicate on the screen."
 
 http://oldschool.scripting.com/KenSmith/2021/08/31/024426.html?title=twitterWishListorganizingTheTweets
 
