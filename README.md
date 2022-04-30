@@ -55,9 +55,17 @@ In a discussion today a much more interesting path was described, using an outli
 
 https://twitter.com/KenSmith/status/1441011200603693058
 
+“It's amazing how much of writing is moving things around.” 
+
 http://oldschool.scripting.com/KenSmith/2021/09/23/182834.html?title=noWonderNoWonder
 
+If revising is, in large part, the act of clarifying, illustrating, and testing the relationship between neighboring sentences--over and over and over again--no wonder writing can sometimes be so difficult.
+
 http://oldschool.scripting.com/KenSmith/2021/09/21/215326.html?title=theObliviousStyleOfNews
+
+But near the end, Sabbith describes real politics accurately--it takes time for people to notice and understand an issue, time to decide to act, time to form alliances, time to make their concerns public, etc. The speech is a mini-primer on political process, or a portion of it.
+
+Any form of journalism that doesn't take into account the time needed for political understanding, engagement, and action is either oblivious to the workings of politics, satisfied with insiders running everything, or indifferent to the quality of decision-making in the nation. 
 
 https://slate.com/news-and-politics/2021/09/justice-for-j6-rally-capitol-dc-trump-jason-stanley-interview.html
 
