@@ -93,15 +93,31 @@ Hoping to prove in a high profile way that tactical opposition can be meaningful
 
 http://oldschool.scripting.com/KenSmith/2021/09/16/135426.html?title=aBloggersBlemishes
 
-http://beta.fargo.io/users/smith/2013/12/30/
+"What bloggers are guilty of -- always -- is telling their story imperfectly," Dave Winer wrote in "Blogging matters," a 2013 post. 
+
+Working in that spirit, a blogger shouldn't claim to have the last say on something, knowing that the blog is a collection of views and experiences, not a pronouncement from authority.
+
+Working in that spirit leaves room for talking with other people, trading ideas, letting thoughts improve and grow. Working in that spirit invites readers not to play power games, though some might do so anyway.
 
 http://scripting.com/2013/12/30/peopleDontUnderstandBlogging
 
+It's important to feel free to tell your story even if it cues up other people's permission to be jerks. 
+
+I don't have a solution, other than to say it helps to stand beside people who put themselves out there. The world is rough. That doesn't mean you can't share what you see. It just means it's important to feel the support. I want to provide what little of that I can, through this post.
+
 http://oldschool.scripting.com/KenSmith/2021/09/14/221417.html?title=twoTraitsOfAnOutliner
+
+Outliner software speeds the flexing that a writer recognizes as the writing process.
 
 http://oldschool.scripting.com/KenSmith/2021/09/13/012153.html?title=yesterdaysHunch
 
+Outlining (like creating an outline for a paper) and using an outliner (like Drummer/Little Outliner/OPML Editor) are two different things.
+
 http://oldschool.scripting.com/KenSmith/2021/09/12/164650.html?title=barriersToGrokkingOutlining
+
+These students grow up and someday may run across outlining software and think back on the bad teaching they received and think, "Why would I want to spend time with that?" Understandable.
+
+But they lose the opportunity to explore something very different from the outlining they might have been taught. The opportunity to compose and revise in a piece of software that brings a writer certain advantages in creating linked thought because it is something called an outliner. It is structured to help a writer establish and display meaningful relationships between adjoining content. Which, as I claimed above, is what good paragraphs do.
 
 http://oldschool.scripting.com/KenSmith/2021/09/10/171927.html?title=theQuestionToKeepAsking
 
