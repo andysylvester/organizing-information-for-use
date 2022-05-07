@@ -185,6 +185,7 @@ http://oldschool.scripting.com/KenSmith/2022/03/10/020721.html?title=anInformati
 
 https://twitter.com/KenSmith/status/1432441073503195138 - Semaphore comment
 
+http://oldschool.scripting.com/KenSmith/2022/04/12/160415.html?title=notesTowardACitizensToolkit
 
 # References
 
