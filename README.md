@@ -121,13 +121,25 @@ But they lose the opportunity to explore something very different from the outli
 
 http://oldschool.scripting.com/KenSmith/2021/09/10/171927.html?title=theQuestionToKeepAsking
 
+Journalists should ask every anti-mask, anti-vax politician and media buffoon every day, "So, you've made clear you're anti-vax and anti-mask. Can you confirm, then, that as far as giving your fellow citizens any hope of ending this murderous pandemic goes, you've got nothing?
+
 http://oldschool.scripting.com/KenSmith/2021/09/10/143302.html?title=organizingOutlinesAndLists
+
+Composing in an outline is different than outlining. Outlining is taking an overview of the order of something. Composing in an outline is a way of paying extra attention to the relationships you are trying to understand and then assert. If the software is good, composing in an outliner makes the work easier.
 
 http://oldschool.scripting.com/KenSmith/2021/09/09/123745.html?title=aFriendWritesAboutSlavery
 
+Yes, our country's institution of slavery ended after the Civil War. But slavery's linked racism obviously continued to spawn hateful follow-ups such as Jim Crow, lynching, the absurdly named "separate but equal" school segregation, the denial of civil rights like voting and access to public spaces, trial-jury-sentencing discrepancies based on race, redlining and job segregation, death rates among soldiers in Vietnam due to the college draft deferment, cultural stereotyping in mass media, and so forth.
+
 http://oldschool.scripting.com/KenSmith/2021/09/08/014406.html?title=this
 
+My least favorite kind of social media post says, but in its own words, "I found this on the internet." Or: "They don't want you to see this." Or: "You won't believe this."
+
+Those posts break one of the guidelines bloggers sometimes spoke about maybe 18 years ago. Link to something, they'd say, and add value to the link by talking at least a little about what a reader is going to find there.
+
 http://oldschool.scripting.com/KenSmith/2021/09/08/004858.html?title=bookActivity
+
+But the average op-ed has nothing to say about where a reader could learn more and how a citizen could join in. 
 
 http://oldschool.scripting.com/KenSmith/2021/09/07/014259.html?title=letsStartAGameWithThis
 
